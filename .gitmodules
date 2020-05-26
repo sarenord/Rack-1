@@ -22,3 +22,6 @@
 	path = dep/glfw
 	url = https://github.com/AndrewBelt/glfw.git
 	ignore = untracked
+[submodule "plugins/skjack-vcv"]
+	path = plugins/skjack-vcv
+	url = https://github.com/Skrylar/skjack-vcv
